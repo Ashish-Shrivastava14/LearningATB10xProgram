@@ -47,7 +47,7 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab005_Comments">
+  <component name="RunManager" selected="Application.Lab006_Comments_Multi">
     <configuration name="Lab001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex01.Lab001" />
       <module name="LearningATB10xProgram" />
@@ -100,20 +100,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="Lab006_Comments_Multi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex01.Lab006_Comments_Multi" />
       <module name="LearningATB10xProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab006_Comments_Multi" />
         <item itemvalue="Application.Lab005_Comments" />
         <item itemvalue="Application.Lab004_Comment" />
         <item itemvalue="Application.Lab002_ShorcutHW" />
         <item itemvalue="Application.Lab001" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
