@@ -59,20 +59,7 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab014_Variables">
-    <configuration name="Lab011_Common_Math" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex01.Lab011_Common_Math" />
-      <module name="LearningATB10xProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lab015_Variables">
     <configuration name="Lab012_Common_Math_Exception" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex01.Lab012_Common_Math_Exception" />
       <module name="LearningATB10xProgram" />
@@ -112,6 +99,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab015_Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex02_Java_Basic.Lab015_Variables" />
+      <module name="LearningATB10xProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex02_Java_Basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex01.Task1" />
       <module name="LearningATB10xProgram" />
@@ -127,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab015_Variables" />
         <item itemvalue="Application.Lab014_Variables" />
         <item itemvalue="Application.Task1" />
         <item itemvalue="Application.Lab013_Println_vs_Print" />
         <item itemvalue="Application.Lab012_Common_Math_Exception" />
-        <item itemvalue="Application.Lab011_Common_Math" />
       </list>
     </recent_temporary>
   </component>
