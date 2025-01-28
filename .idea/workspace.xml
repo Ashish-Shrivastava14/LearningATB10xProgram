@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0edcdc6-021c-43a6-aed3-299ed2f78992" name="Changes" comment=" weekly task">
-      <change afterPath="$PROJECT_DIR$/src/ex02_Java_Basic/Lab021_Boolean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex02_Java_Basic/Lab022_Numerics_Data_Types.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex02_Java_Basic/Lab023_Byte.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a0edcdc6-021c-43a6-aed3-299ed2f78992" name="Changes" comment=" weekly task" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,6 +61,9 @@
     "Application.Lab021_Boolean.executor": "Run",
     "Application.Lab022_Numerics_Data_Types.executor": "Run",
     "Application.Lab023_Byte.executor": "Run",
+    "Application.Lab024_printF.executor": "Run",
+    "Application.Lab025_Constants.executor": "Run",
+    "Application.Lab026_Local_Variable.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Task1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -325,7 +323,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738052375351</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary=" weekly task">
+      <option name="closed" value="true" />
+      <created>1738052934886</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1738052934886</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
