@@ -53,20 +53,7 @@
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Lab009_Keywords_Identifiers">
-    <configuration name="Lab005_Comments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex01.Lab005_Comments" />
-      <module name="LearningATB10xProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lab010_Keywords_Identifier">
     <configuration name="Lab006_Comments_Multi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex01.Lab006_Comments_Multi" />
       <module name="LearningATB10xProgram" />
@@ -119,13 +106,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab010_Keywords_Identifier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex01.Lab010_Keywords_Identifier" />
+      <module name="LearningATB10xProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab010_Keywords_Identifier" />
         <item itemvalue="Application.Lab009_Keywords_Identifiers" />
         <item itemvalue="Application.Lab008_Comment" />
         <item itemvalue="Application.Lab007_Comments_ShortCuts" />
         <item itemvalue="Application.Lab006_Comments_Multi" />
-        <item itemvalue="Application.Lab005_Comments" />
       </list>
     </recent_temporary>
   </component>
