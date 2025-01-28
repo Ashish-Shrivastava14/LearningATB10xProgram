@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0edcdc6-021c-43a6-aed3-299ed2f78992" name="Changes" comment=" weekly task" />
+    <list default="true" id="a0edcdc6-021c-43a6-aed3-299ed2f78992" name="Changes" comment=" weekly task">
+      <change afterPath="$PROJECT_DIR$/src/ex02_Java_Basic/Lab018.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,13 +55,16 @@
     "Application.Lab013_Println_vs_Print.executor": "Run",
     "Application.Lab014_Variables.executor": "Run",
     "Application.Lab015_Variables.executor": "Run",
+    "Application.Lab016_Variables.executor": "Run",
+    "Application.Lab017_Variables.executor": "Run",
+    "Application.Lab018.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Task1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab017_Variables">
+  <component name="RunManager" selected="Application.Lab018">
     <configuration name="Lab014_Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex02_Java_Basic.Lab014_Variables" />
       <module name="LearningATB10xProgram" />
@@ -112,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex01.Task1" />
+    <configuration name="Lab018" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex02_Java_Basic.Lab018" />
       <module name="LearningATB10xProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex01.*" />
+          <option name="PATTERN" value="ex02_Java_Basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab018" />
         <item itemvalue="Application.Lab017_Variables" />
         <item itemvalue="Application.Lab016_Variables" />
         <item itemvalue="Application.Lab015_Variables" />
         <item itemvalue="Application.Lab014_Variables" />
-        <item itemvalue="Application.Task1" />
       </list>
     </recent_temporary>
   </component>
@@ -272,7 +277,23 @@
       <option name="project" value="LOCAL" />
       <updated>1738051482435</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary=" weekly task">
+      <option name="closed" value="true" />
+      <created>1738051593975</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1738051593975</updated>
+    </task>
+    <task id="LOCAL-00018" summary=" weekly task">
+      <option name="closed" value="true" />
+      <created>1738051743918</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1738051743918</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
