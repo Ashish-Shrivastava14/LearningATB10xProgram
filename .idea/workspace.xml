@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0edcdc6-021c-43a6-aed3-299ed2f78992" name="Changes" comment=" weekly task">
-      <change afterPath="$PROJECT_DIR$/src/ex02_Java_Basic/Lab020_Interview_QnA2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex02_Java_Basic/Lab021_Boolean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex02_Java_Basic/Lab022_Numerics_Data_Types.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex02_Java_Basic/Lab023_Byte.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,15 +62,19 @@
     "Application.Lab017_Variables.executor": "Run",
     "Application.Lab018.executor": "Run",
     "Application.Lab019_Interview_QnA.executor": "Run",
+    "Application.Lab020_Interview_QnA2.executor": "Run",
+    "Application.Lab021_Boolean.executor": "Run",
+    "Application.Lab022_Numerics_Data_Types.executor": "Run",
+    "Application.Lab023_Byte.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Task1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab020_Interview_QnA2">
-    <configuration name="Lab016_Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex02_Java_Basic.Lab016_Variables" />
+  <component name="RunManager" selected="Application.Lab026_Local_Variable">
+    <configuration name="Lab022_Numerics_Data_Types" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex02_Java_Basic.Lab022_Numerics_Data_Types" />
       <module name="LearningATB10xProgram" />
       <extension name="coverage">
         <pattern>
@@ -79,8 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab017_Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex02_Java_Basic.Lab017_Variables" />
+    <configuration name="Lab023_Byte" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex02_Java_Basic.Lab023_Byte" />
       <module name="LearningATB10xProgram" />
       <extension name="coverage">
         <pattern>
@@ -92,8 +99,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab018" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex02_Java_Basic.Lab018" />
+    <configuration name="Lab024_printF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex02_Java_Basic.Lab024_printF" />
       <module name="LearningATB10xProgram" />
       <extension name="coverage">
         <pattern>
@@ -105,8 +112,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab019_Interview_QnA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex02_Java_Basic.Lab019_Interview_QnA" />
+    <configuration name="Lab025_Constants" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex02_Java_Basic.Lab025_Constants" />
       <module name="LearningATB10xProgram" />
       <extension name="coverage">
         <pattern>
@@ -118,8 +125,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab020_Interview_QnA2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex02_Java_Basic.Lab020_Interview_QnA2" />
+    <configuration name="Lab026_Local_Variable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex02_Java_Basic.Lab026_Local_Variable" />
       <module name="LearningATB10xProgram" />
       <extension name="coverage">
         <pattern>
@@ -133,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab020_Interview_QnA2" />
-        <item itemvalue="Application.Lab019_Interview_QnA" />
-        <item itemvalue="Application.Lab018" />
-        <item itemvalue="Application.Lab017_Variables" />
-        <item itemvalue="Application.Lab016_Variables" />
+        <item itemvalue="Application.Lab026_Local_Variable" />
+        <item itemvalue="Application.Lab025_Constants" />
+        <item itemvalue="Application.Lab024_printF" />
+        <item itemvalue="Application.Lab023_Byte" />
+        <item itemvalue="Application.Lab022_Numerics_Data_Types" />
       </list>
     </recent_temporary>
   </component>
@@ -310,7 +317,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738051964933</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary=" weekly task">
+      <option name="closed" value="true" />
+      <created>1738052375351</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1738052375351</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
