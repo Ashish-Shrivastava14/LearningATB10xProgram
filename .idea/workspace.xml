@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0edcdc6-021c-43a6-aed3-299ed2f78992" name="Changes" comment=" weekly task">
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals/Lab033_Literals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals/Lab034_Literals_Char.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals/Lab035_Non_Primitive_Literal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab036_Operators_Assignment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab037_Operators_Arithmetic_Operators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab038_Unary_Operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab039_Operator_Modulus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab040_Relational_Operators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab041_Logical_Operators.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a0edcdc6-021c-43a6-aed3-299ed2f78992" name="Changes" comment="  task" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,60 +37,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Lab001.executor": "Run",
-    "Application.Lab002_ShorcutHW.executor": "Run",
-    "Application.Lab004_Comment.executor": "Run",
-    "Application.Lab005_Comments.executor": "Run",
-    "Application.Lab006_Comments_Multi.executor": "Run",
-    "Application.Lab007_Comments_ShortCuts.executor": "Run",
-    "Application.Lab008_Comment.executor": "Run",
-    "Application.Lab009_Keywords_Identifiers.executor": "Run",
-    "Application.Lab010_Keywords_Identifier.executor": "Run",
-    "Application.Lab011_Common_Math.executor": "Run",
-    "Application.Lab012_Common_Math_Exception.executor": "Run",
-    "Application.Lab013_Println_vs_Print.executor": "Run",
-    "Application.Lab014_Variables.executor": "Run",
-    "Application.Lab015_Variables.executor": "Run",
-    "Application.Lab016_Variables.executor": "Run",
-    "Application.Lab017_Variables.executor": "Run",
-    "Application.Lab018.executor": "Run",
-    "Application.Lab019_Interview_QnA.executor": "Run",
-    "Application.Lab020_Interview_QnA2.executor": "Run",
-    "Application.Lab021_Boolean.executor": "Run",
-    "Application.Lab022_Numerics_Data_Types.executor": "Run",
-    "Application.Lab023_Byte.executor": "Run",
-    "Application.Lab024_printF.executor": "Run",
-    "Application.Lab025_Constants.executor": "Run",
-    "Application.Lab026_Local_Variable.executor": "Run",
-    "Application.Lab027_Multiple_Variables.executor": "Run",
-    "Application.Lab028_Multiple_Class.executor": "Run",
-    "Application.Lab029_Literals_P1.executor": "Run",
-    "Application.Lab030_Literals_P2.executor": "Run",
-    "Application.Lab031_Boolean_Literals.executor": "Run",
-    "Application.Lab032_Literals_P3.executor": "Run",
-    "Application.Lab033_Literals.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Task1.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Lab001.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab002_ShorcutHW.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab004_Comment.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab005_Comments.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab006_Comments_Multi.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab007_Comments_ShortCuts.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab008_Comment.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab009_Keywords_Identifiers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab010_Keywords_Identifier.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab011_Common_Math.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab012_Common_Math_Exception.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab013_Println_vs_Print.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab014_Variables.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab015_Variables.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab016_Variables.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab017_Variables.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab018.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab019_Interview_QnA.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab020_Interview_QnA2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab021_Boolean.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab022_Numerics_Data_Types.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab023_Byte.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab024_printF.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab025_Constants.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab026_Local_Variable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab027_Multiple_Variables.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab028_Multiple_Class.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab029_Literals_P1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab030_Literals_P2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab031_Boolean_Literals.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab032_Literals_P3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab033_Literals.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task1.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Lab033_Literals">
-    <configuration name="Lab029_Literals_P1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_03_Literals.Lab029_Literals_P1" />
-      <module name="LearningATB10xProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_03_Literals.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}</component>
+  <component name="RunManager" selected="Application.Lab042_Interview_Concat_Plus">
     <configuration name="Lab030_Literals_P2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_03_Literals.Lab030_Literals_P2" />
       <module name="LearningATB10xProgram" />
@@ -154,13 +130,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab042_Interview_Concat_Plus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_04_Operators.Lab042_Interview_Concat_Plus" />
+      <module name="LearningATB10xProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_04_Operators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab042_Interview_Concat_Plus" />
         <item itemvalue="Application.Lab033_Literals" />
         <item itemvalue="Application.Lab032_Literals_P3" />
         <item itemvalue="Application.Lab031_Boolean_Literals" />
         <item itemvalue="Application.Lab030_Literals_P2" />
-        <item itemvalue="Application.Lab029_Literals_P1" />
       </list>
     </recent_temporary>
   </component>
@@ -397,15 +386,23 @@
       <option name="project" value="LOCAL" />
       <updated>1738144394213</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="  task">
+      <option name="closed" value="true" />
+      <created>1738167431473</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1738167431473</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="First Commit" />
     <MESSAGE value=" Commit" />
-    <MESSAGE value="  task" />
     <MESSAGE value=" weekly task" />
-    <option name="LAST_COMMIT_MESSAGE" value=" weekly task" />
+    <MESSAGE value="  task" />
+    <option name="LAST_COMMIT_MESSAGE" value="  task" />
   </component>
 </project>
