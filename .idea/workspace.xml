@@ -80,20 +80,7 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab043_Interview_Concat_Plus">
-    <configuration name="Lab031_Boolean_Literals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_03_Literals.Lab031_Boolean_Literals" />
-      <module name="LearningATB10xProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_03_Literals.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lab044_BODMAS">
     <configuration name="Lab032_Literals_P3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_03_Literals.Lab032_Literals_P3" />
       <module name="LearningATB10xProgram" />
@@ -146,13 +133,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab044_BODMAS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_04_Operators.Lab044_BODMAS" />
+      <module name="LearningATB10xProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_04_Operators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab044_BODMAS" />
         <item itemvalue="Application.Lab043_Interview_Concat_Plus" />
         <item itemvalue="Application.Lab042_Interview_Concat_Plus" />
         <item itemvalue="Application.Lab033_Literals" />
         <item itemvalue="Application.Lab032_Literals_P3" />
-        <item itemvalue="Application.Lab031_Boolean_Literals" />
       </list>
     </recent_temporary>
   </component>
