@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0edcdc6-021c-43a6-aed3-299ed2f78992" name="Changes" comment="  weekly task">
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab045.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab046_Interview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab047_OR_AND_GATE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,39 +78,16 @@
     "Application.Lab042_Interview_Concat_Plus.executor": "Run",
     "Application.Lab043_Interview_Concat_Plus.executor": "Run",
     "Application.Lab044_BODMAS.executor": "Run",
+    "Application.Lab045.executor": "Run",
+    "Application.Lab046_Interview.executor": "Run",
+    "Application.Lab047_OR_AND_GATE.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Task1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab045">
-    <configuration name="Lab033_Literals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_03_Literals.Lab033_Literals" />
-      <module name="LearningATB10xProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_03_Literals.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab042_Interview_Concat_Plus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_04_Operators.Lab042_Interview_Concat_Plus" />
-      <module name="LearningATB10xProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_04_Operators.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lab047_OR_AND_GATE">
     <configuration name="Lab043_Interview_Concat_Plus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_04_Operators.Lab043_Interview_Concat_Plus" />
       <module name="LearningATB10xProgram" />
@@ -148,13 +127,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab046_Interview" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_04_Operators.Lab046_Interview" />
+      <module name="LearningATB10xProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_04_Operators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab047_OR_AND_GATE" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_04_Operators.Lab047_OR_AND_GATE" />
+      <module name="LearningATB10xProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_04_Operators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab047_OR_AND_GATE" />
+        <item itemvalue="Application.Lab046_Interview" />
         <item itemvalue="Application.Lab045" />
         <item itemvalue="Application.Lab044_BODMAS" />
         <item itemvalue="Application.Lab043_Interview_Concat_Plus" />
-        <item itemvalue="Application.Lab042_Interview_Concat_Plus" />
-        <item itemvalue="Application.Lab033_Literals" />
       </list>
     </recent_temporary>
   </component>
@@ -423,7 +428,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738168055535</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="  weekly task">
+      <option name="closed" value="true" />
+      <created>1738168204466</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1738168204466</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
