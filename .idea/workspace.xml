@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0edcdc6-021c-43a6-aed3-299ed2f78992" name="Changes" comment="  weekly task">
-      <change afterPath="$PROJECT_DIR$/src/ex_06_Ternary_Operator/Lab062_TO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_06_Ternary_Operator/Lab063_TO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_06_Ternary_Operator/Lab064_Interview_TO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_06_Ternary_Operator/Lab065_TO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_06_Ternary_Operator/Lab066_TO_Even_Odd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_06_Ternary_Operator/Lab067_To_Three_Max.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_06_Ternary_Operator/Lab068_AgeClassification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Increment_Decrement_Op/Lab069_In_de_op.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Increment_Decrement_Op/Lab070_ID_Op.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_Increment_Decrement_Op/Lab074_Advance_ID.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_07_Increment_Decrement_Op/Lab073_ID.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_07_Increment_Decrement_Op/Lab073_ID.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,26 +101,18 @@
     "Application.Lab067_To_Three_Max.executor": "Run",
     "Application.Lab068_AgeClassification.executor": "Run",
     "Application.Lab069_In_de_op.executor": "Run",
+    "Application.Lab070_ID_Op.executor": "Run",
+    "Application.Lab071_POST_ID.executor": "Run",
+    "Application.Lab072_ID.executor": "Run",
+    "Application.Lab073_ID.executor": "Run",
+    "Application.Lab074_Advance_ID.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Task1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab073_ID">
-    <configuration name="Lab069_In_de_op" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_07_Increment_Decrement_Op.Lab069_In_de_op" />
-      <module name="LearningATB10xProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_07_Increment_Decrement_Op.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lab074_Advance_ID">
     <configuration name="Lab070_ID_Op" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_07_Increment_Decrement_Op.Lab070_ID_Op" />
       <module name="LearningATB10xProgram" />
@@ -180,13 +165,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab074_Advance_ID" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_07_Increment_Decrement_Op.Lab074_Advance_ID" />
+      <module name="LearningATB10xProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_07_Increment_Decrement_Op.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab074_Advance_ID" />
         <item itemvalue="Application.Lab073_ID" />
         <item itemvalue="Application.Lab072_ID" />
         <item itemvalue="Application.Lab071_POST_ID" />
         <item itemvalue="Application.Lab070_ID_Op" />
-        <item itemvalue="Application.Lab069_In_de_op" />
       </list>
     </recent_temporary>
   </component>
@@ -479,7 +477,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738257303705</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="  weekly task">
+      <option name="closed" value="true" />
+      <created>1738258541295</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1738258541295</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
