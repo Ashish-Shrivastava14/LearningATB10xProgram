@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0edcdc6-021c-43a6-aed3-299ed2f78992" name="Changes" comment="  weekly task">
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab046_Interview.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab047_OR_AND_GATE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab048_Interview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab049_All_Operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab050_New_Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab051_InstanceOf_Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab052_Interview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab053_Interview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab054_Interview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab055_Interview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab056_Interview.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,15 +88,22 @@
     "Application.Lab045.executor": "Run",
     "Application.Lab046_Interview.executor": "Run",
     "Application.Lab047_OR_AND_GATE.executor": "Run",
+    "Application.Lab048_Interview.executor": "Run",
+    "Application.Lab050_New_Operator.executor": "Run",
+    "Application.Lab051_InstanceOf_Operator.executor": "Run",
+    "Application.Lab052_Interview.executor": "Run",
+    "Application.Lab053_Interview.executor": "Run",
+    "Application.Lab054_Interview.executor": "Run",
+    "Application.Lab055_Interview.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Task1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab047_OR_AND_GATE">
-    <configuration name="Lab043_Interview_Concat_Plus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_04_Operators.Lab043_Interview_Concat_Plus" />
+  <component name="RunManager" selected="Application.Lab061_TypCasting_Used">
+    <configuration name="Lab056_Interview" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_04_Operators.Lab056_Interview" />
       <module name="LearningATB10xProgram" />
       <extension name="coverage">
         <pattern>
@@ -101,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab044_BODMAS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_04_Operators.Lab044_BODMAS" />
+    <configuration name="Lab058_TypeCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_05_TypeCasting.Lab058_TypeCasting" />
       <module name="LearningATB10xProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_04_Operators.*" />
+          <option name="PATTERN" value="ex_05_TypeCasting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab045" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_04_Operators.Lab045" />
+    <configuration name="Lab059_TypeCasting_Narrowing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_05_TypeCasting.Lab059_TypeCasting_Narrowing" />
       <module name="LearningATB10xProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_04_Operators.*" />
+          <option name="PATTERN" value="ex_05_TypeCasting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab046_Interview" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_04_Operators.Lab046_Interview" />
+    <configuration name="Lab060_TypeCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_05_TypeCasting.Lab060_TypeCasting" />
       <module name="LearningATB10xProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_04_Operators.*" />
+          <option name="PATTERN" value="ex_05_TypeCasting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,12 +154,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab047_OR_AND_GATE" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_04_Operators.Lab047_OR_AND_GATE" />
+    <configuration name="Lab061_TypCasting_Used" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_05_TypeCasting.Lab061_TypCasting_Used" />
       <module name="LearningATB10xProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_04_Operators.*" />
+          <option name="PATTERN" value="ex_05_TypeCasting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab047_OR_AND_GATE" />
-        <item itemvalue="Application.Lab046_Interview" />
-        <item itemvalue="Application.Lab045" />
-        <item itemvalue="Application.Lab044_BODMAS" />
-        <item itemvalue="Application.Lab043_Interview_Concat_Plus" />
+        <item itemvalue="Application.Lab061_TypCasting_Used" />
+        <item itemvalue="Application.Lab060_TypeCasting" />
+        <item itemvalue="Application.Lab059_TypeCasting_Narrowing" />
+        <item itemvalue="Application.Lab058_TypeCasting" />
+        <item itemvalue="Application.Lab056_Interview" />
       </list>
     </recent_temporary>
   </component>
@@ -436,7 +450,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738168204466</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="  weekly task">
+      <option name="closed" value="true" />
+      <created>1738168528459</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1738168528459</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
