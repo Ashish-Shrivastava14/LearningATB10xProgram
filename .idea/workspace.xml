@@ -5,15 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0edcdc6-021c-43a6-aed3-299ed2f78992" name="Changes" comment="  weekly task">
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab048_Interview.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab049_All_Operators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab050_New_Operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab051_InstanceOf_Operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab052_Interview.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab053_Interview.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab054_Interview.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab055_Interview.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab056_Interview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_06_Ternary_Operator/Lab062_TO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_06_Ternary_Operator/Lab063_TO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_06_Ternary_Operator/Lab064_Interview_TO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_06_Ternary_Operator/Lab065_TO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_06_Ternary_Operator/Lab066_TO_Even_Odd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_06_Ternary_Operator/Lab067_To_Three_Max.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_06_Ternary_Operator/Lab068_AgeClassification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_Increment_Decrement_Op/Lab069_In_de_op.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_Increment_Decrement_Op/Lab070_ID_Op.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -95,19 +95,32 @@
     "Application.Lab053_Interview.executor": "Run",
     "Application.Lab054_Interview.executor": "Run",
     "Application.Lab055_Interview.executor": "Run",
+    "Application.Lab056_Interview.executor": "Run",
+    "Application.Lab058_TypeCasting.executor": "Run",
+    "Application.Lab059_TypeCasting_Narrowing.executor": "Run",
+    "Application.Lab060_TypeCasting.executor": "Run",
+    "Application.Lab061_TypCasting_Used.executor": "Run",
+    "Application.Lab062_TO.executor": "Run",
+    "Application.Lab063_TO.executor": "Run",
+    "Application.Lab064_Interview_TO.executor": "Run",
+    "Application.Lab065_TO.executor": "Run",
+    "Application.Lab066_TO_Even_Odd.executor": "Run",
+    "Application.Lab067_To_Three_Max.executor": "Run",
+    "Application.Lab068_AgeClassification.executor": "Run",
+    "Application.Lab069_In_de_op.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Task1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab061_TypCasting_Used">
-    <configuration name="Lab056_Interview" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_04_Operators.Lab056_Interview" />
+  <component name="RunManager" selected="Application.Lab073_ID">
+    <configuration name="Lab069_In_de_op" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_07_Increment_Decrement_Op.Lab069_In_de_op" />
       <module name="LearningATB10xProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_04_Operators.*" />
+          <option name="PATTERN" value="ex_07_Increment_Decrement_Op.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab058_TypeCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_05_TypeCasting.Lab058_TypeCasting" />
+    <configuration name="Lab070_ID_Op" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_07_Increment_Decrement_Op.Lab070_ID_Op" />
       <module name="LearningATB10xProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_05_TypeCasting.*" />
+          <option name="PATTERN" value="ex_07_Increment_Decrement_Op.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab059_TypeCasting_Narrowing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_05_TypeCasting.Lab059_TypeCasting_Narrowing" />
+    <configuration name="Lab071_POST_ID" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_07_Increment_Decrement_Op.Lab071_POST_ID" />
       <module name="LearningATB10xProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_05_TypeCasting.*" />
+          <option name="PATTERN" value="ex_07_Increment_Decrement_Op.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,12 +154,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab060_TypeCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_05_TypeCasting.Lab060_TypeCasting" />
+    <configuration name="Lab072_ID" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_07_Increment_Decrement_Op.Lab072_ID" />
       <module name="LearningATB10xProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_05_TypeCasting.*" />
+          <option name="PATTERN" value="ex_07_Increment_Decrement_Op.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,12 +167,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab061_TypCasting_Used" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_05_TypeCasting.Lab061_TypCasting_Used" />
+    <configuration name="Lab073_ID" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_07_Increment_Decrement_Op.Lab073_ID" />
       <module name="LearningATB10xProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_05_TypeCasting.*" />
+          <option name="PATTERN" value="ex_07_Increment_Decrement_Op.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,11 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab061_TypCasting_Used" />
-        <item itemvalue="Application.Lab060_TypeCasting" />
-        <item itemvalue="Application.Lab059_TypeCasting_Narrowing" />
-        <item itemvalue="Application.Lab058_TypeCasting" />
-        <item itemvalue="Application.Lab056_Interview" />
+        <item itemvalue="Application.Lab073_ID" />
+        <item itemvalue="Application.Lab072_ID" />
+        <item itemvalue="Application.Lab071_POST_ID" />
+        <item itemvalue="Application.Lab070_ID_Op" />
+        <item itemvalue="Application.Lab069_In_de_op" />
       </list>
     </recent_temporary>
   </component>
@@ -458,7 +471,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738168528459</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="  weekly task">
+      <option name="closed" value="true" />
+      <created>1738257303705</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1738257303705</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
