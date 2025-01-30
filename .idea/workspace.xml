@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0edcdc6-021c-43a6-aed3-299ed2f78992" name="Changes" comment="  weekly task" />
+    <list default="true" id="a0edcdc6-021c-43a6-aed3-299ed2f78992" name="Changes" comment="  First Commit">
+      <change afterPath="$PROJECT_DIR$/src/ex_07_Increment_Decrement_Op/Lab076_Exp2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_Increment_Decrement_Op/Lab077_De.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_Increment_Decrement_Op/Lab078_De_P2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_Increment_Decrement_Op/Lab079_Task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -102,65 +108,18 @@
     "Application.Lab072_ID.executor": "Run",
     "Application.Lab073_ID.executor": "Run",
     "Application.Lab074_Advance_ID.executor": "Run",
+    "Application.Lab075_Exp1.executor": "Run",
+    "Application.Lab076_Exp2.executor": "Run",
+    "Application.Lab077_De.executor": "Run",
+    "Application.Lab078_De_P2.executor": "Run",
+    "Application.Lab079_Task2.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Task1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab075_Exp1">
-    <configuration name="Lab071_POST_ID" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_07_Increment_Decrement_Op.Lab071_POST_ID" />
-      <module name="LearningATB10xProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_07_Increment_Decrement_Op.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab072_ID" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_07_Increment_Decrement_Op.Lab072_ID" />
-      <module name="LearningATB10xProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_07_Increment_Decrement_Op.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab073_ID" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_07_Increment_Decrement_Op.Lab073_ID" />
-      <module name="LearningATB10xProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_07_Increment_Decrement_Op.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab074_Advance_ID" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_07_Increment_Decrement_Op.Lab074_Advance_ID" />
-      <module name="LearningATB10xProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_07_Increment_Decrement_Op.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lab079_Task2">
     <configuration name="Lab075_Exp1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_07_Increment_Decrement_Op.Lab075_Exp1" />
       <module name="LearningATB10xProgram" />
@@ -174,13 +133,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab076_Exp2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_07_Increment_Decrement_Op.Lab076_Exp2" />
+      <module name="LearningATB10xProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_07_Increment_Decrement_Op.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab077_De" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_07_Increment_Decrement_Op.Lab077_De" />
+      <module name="LearningATB10xProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_07_Increment_Decrement_Op.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab078_De_P2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_07_Increment_Decrement_Op.Lab078_De_P2" />
+      <module name="LearningATB10xProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_07_Increment_Decrement_Op.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab079_Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_07_Increment_Decrement_Op.Lab079_Task2" />
+      <module name="LearningATB10xProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_07_Increment_Decrement_Op.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab079_Task2" />
+        <item itemvalue="Application.Lab078_De_P2" />
+        <item itemvalue="Application.Lab077_De" />
+        <item itemvalue="Application.Lab076_Exp2" />
         <item itemvalue="Application.Lab075_Exp1" />
-        <item itemvalue="Application.Lab074_Advance_ID" />
-        <item itemvalue="Application.Lab073_ID" />
-        <item itemvalue="Application.Lab072_ID" />
-        <item itemvalue="Application.Lab071_POST_ID" />
       </list>
     </recent_temporary>
   </component>
@@ -489,7 +500,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738259121165</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="  weekly task">
+      <option name="closed" value="true" />
+      <created>1738259217973</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1738259217973</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -499,6 +518,7 @@
     <MESSAGE value=" weekly task" />
     <MESSAGE value="  task" />
     <MESSAGE value="  weekly task" />
-    <option name="LAST_COMMIT_MESSAGE" value="  weekly task" />
+    <MESSAGE value="  First Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="  First Commit" />
   </component>
 </project>
