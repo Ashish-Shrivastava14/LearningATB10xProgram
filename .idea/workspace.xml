@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0edcdc6-021c-43a6-aed3-299ed2f78992" name="Changes" comment="  Weekly task">
-      <change afterPath="$PROJECT_DIR$/src/ex_08_If_Condition/Lab081_If_P1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_If_Condition/Lab082_if_Else.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_If_Condition/Lab083_Interview.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -114,26 +113,14 @@
     "Application.Lab080_If.executor": "Run",
     "Application.Lab081_If_P1.executor": "Run",
     "Application.Lab082_if_Else.executor": "Run",
+    "Application.Lab083_Interview.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Task1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab082_if_Else">
-    <configuration name="Lab078_De_P2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_07_Increment_Decrement_Op.Lab078_De_P2" />
-      <module name="LearningATB10xProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_07_Increment_Decrement_Op.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lab083_Interview">
     <configuration name="Lab079_Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_07_Increment_Decrement_Op.Lab079_Task2" />
       <module name="LearningATB10xProgram" />
@@ -186,13 +173,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab083_Interview" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_08_If_Condition.Lab083_Interview" />
+      <module name="LearningATB10xProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_08_If_Condition.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab083_Interview" />
         <item itemvalue="Application.Lab082_if_Else" />
         <item itemvalue="Application.Lab081_If_P1" />
         <item itemvalue="Application.Lab080_If" />
         <item itemvalue="Application.Lab079_Task2" />
-        <item itemvalue="Application.Lab078_De_P2" />
       </list>
     </recent_temporary>
   </component>
@@ -525,7 +525,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738335238376</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="  Weekly task">
+      <option name="closed" value="true" />
+      <created>1738336689885</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1738336689885</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
