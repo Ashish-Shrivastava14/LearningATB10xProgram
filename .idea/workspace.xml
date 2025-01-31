@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0edcdc6-021c-43a6-aed3-299ed2f78992" name="Changes" comment="  Weekly task">
+      <change afterPath="$PROJECT_DIR$/src/ex_08_If_Condition/Lab081_If_P1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_If_Condition/Lab082_if_Else.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,109 +41,86 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Lab001.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab002_ShorcutHW.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab004_Comment.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab005_Comments.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab006_Comments_Multi.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab007_Comments_ShortCuts.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab008_Comment.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab009_Keywords_Identifiers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab010_Keywords_Identifier.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab011_Common_Math.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab012_Common_Math_Exception.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab013_Println_vs_Print.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab014_Variables.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab015_Variables.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab016_Variables.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab017_Variables.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab018.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab019_Interview_QnA.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab020_Interview_QnA2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab021_Boolean.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab022_Numerics_Data_Types.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab023_Byte.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab024_printF.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab025_Constants.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab026_Local_Variable.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab027_Multiple_Variables.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab028_Multiple_Class.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab029_Literals_P1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab030_Literals_P2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab031_Boolean_Literals.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab032_Literals_P3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab033_Literals.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab042_Interview_Concat_Plus.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab043_Interview_Concat_Plus.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab044_BODMAS.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab045.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab046_Interview.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab047_OR_AND_GATE.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab048_Interview.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab050_New_Operator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab051_InstanceOf_Operator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab052_Interview.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab053_Interview.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab054_Interview.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab055_Interview.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab056_Interview.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab058_TypeCasting.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab059_TypeCasting_Narrowing.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab060_TypeCasting.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab061_TypCasting_Used.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab062_TO.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab063_TO.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab064_Interview_TO.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab065_TO.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab066_TO_Even_Odd.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab067_To_Three_Max.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab068_AgeClassification.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab069_In_de_op.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab070_ID_Op.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab071_POST_ID.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab072_ID.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab073_ID.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab074_Advance_ID.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab075_Exp1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab076_Exp2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab077_De.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab078_De_P2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab079_Task2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task1.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Lab001.executor": "Run",
+    "Application.Lab002_ShorcutHW.executor": "Run",
+    "Application.Lab004_Comment.executor": "Run",
+    "Application.Lab005_Comments.executor": "Run",
+    "Application.Lab006_Comments_Multi.executor": "Run",
+    "Application.Lab007_Comments_ShortCuts.executor": "Run",
+    "Application.Lab008_Comment.executor": "Run",
+    "Application.Lab009_Keywords_Identifiers.executor": "Run",
+    "Application.Lab010_Keywords_Identifier.executor": "Run",
+    "Application.Lab011_Common_Math.executor": "Run",
+    "Application.Lab012_Common_Math_Exception.executor": "Run",
+    "Application.Lab013_Println_vs_Print.executor": "Run",
+    "Application.Lab014_Variables.executor": "Run",
+    "Application.Lab015_Variables.executor": "Run",
+    "Application.Lab016_Variables.executor": "Run",
+    "Application.Lab017_Variables.executor": "Run",
+    "Application.Lab018.executor": "Run",
+    "Application.Lab019_Interview_QnA.executor": "Run",
+    "Application.Lab020_Interview_QnA2.executor": "Run",
+    "Application.Lab021_Boolean.executor": "Run",
+    "Application.Lab022_Numerics_Data_Types.executor": "Run",
+    "Application.Lab023_Byte.executor": "Run",
+    "Application.Lab024_printF.executor": "Run",
+    "Application.Lab025_Constants.executor": "Run",
+    "Application.Lab026_Local_Variable.executor": "Run",
+    "Application.Lab027_Multiple_Variables.executor": "Run",
+    "Application.Lab028_Multiple_Class.executor": "Run",
+    "Application.Lab029_Literals_P1.executor": "Run",
+    "Application.Lab030_Literals_P2.executor": "Run",
+    "Application.Lab031_Boolean_Literals.executor": "Run",
+    "Application.Lab032_Literals_P3.executor": "Run",
+    "Application.Lab033_Literals.executor": "Run",
+    "Application.Lab042_Interview_Concat_Plus.executor": "Run",
+    "Application.Lab043_Interview_Concat_Plus.executor": "Run",
+    "Application.Lab044_BODMAS.executor": "Run",
+    "Application.Lab045.executor": "Run",
+    "Application.Lab046_Interview.executor": "Run",
+    "Application.Lab047_OR_AND_GATE.executor": "Run",
+    "Application.Lab048_Interview.executor": "Run",
+    "Application.Lab050_New_Operator.executor": "Run",
+    "Application.Lab051_InstanceOf_Operator.executor": "Run",
+    "Application.Lab052_Interview.executor": "Run",
+    "Application.Lab053_Interview.executor": "Run",
+    "Application.Lab054_Interview.executor": "Run",
+    "Application.Lab055_Interview.executor": "Run",
+    "Application.Lab056_Interview.executor": "Run",
+    "Application.Lab058_TypeCasting.executor": "Run",
+    "Application.Lab059_TypeCasting_Narrowing.executor": "Run",
+    "Application.Lab060_TypeCasting.executor": "Run",
+    "Application.Lab061_TypCasting_Used.executor": "Run",
+    "Application.Lab062_TO.executor": "Run",
+    "Application.Lab063_TO.executor": "Run",
+    "Application.Lab064_Interview_TO.executor": "Run",
+    "Application.Lab065_TO.executor": "Run",
+    "Application.Lab066_TO_Even_Odd.executor": "Run",
+    "Application.Lab067_To_Three_Max.executor": "Run",
+    "Application.Lab068_AgeClassification.executor": "Run",
+    "Application.Lab069_In_de_op.executor": "Run",
+    "Application.Lab070_ID_Op.executor": "Run",
+    "Application.Lab071_POST_ID.executor": "Run",
+    "Application.Lab072_ID.executor": "Run",
+    "Application.Lab073_ID.executor": "Run",
+    "Application.Lab074_Advance_ID.executor": "Run",
+    "Application.Lab075_Exp1.executor": "Run",
+    "Application.Lab076_Exp2.executor": "Run",
+    "Application.Lab077_De.executor": "Run",
+    "Application.Lab078_De_P2.executor": "Run",
+    "Application.Lab079_Task2.executor": "Run",
+    "Application.Lab080_If.executor": "Run",
+    "Application.Lab081_If_P1.executor": "Run",
+    "Application.Lab082_if_Else.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Task1.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.Lab080_If">
-    <configuration name="Lab076_Exp2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_07_Increment_Decrement_Op.Lab076_Exp2" />
-      <module name="LearningATB10xProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_07_Increment_Decrement_Op.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab077_De" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_07_Increment_Decrement_Op.Lab077_De" />
-      <module name="LearningATB10xProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_07_Increment_Decrement_Op.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}]]></component>
+  <component name="RunManager" selected="Application.Lab082_if_Else">
     <configuration name="Lab078_De_P2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_07_Increment_Decrement_Op.Lab078_De_P2" />
       <module name="LearningATB10xProgram" />
@@ -181,13 +160,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab081_If_P1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_08_If_Condition.Lab081_If_P1" />
+      <module name="LearningATB10xProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_08_If_Condition.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab082_if_Else" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_08_If_Condition.Lab082_if_Else" />
+      <module name="LearningATB10xProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_08_If_Condition.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab082_if_Else" />
+        <item itemvalue="Application.Lab081_If_P1" />
         <item itemvalue="Application.Lab080_If" />
         <item itemvalue="Application.Lab079_Task2" />
         <item itemvalue="Application.Lab078_De_P2" />
-        <item itemvalue="Application.Lab077_De" />
-        <item itemvalue="Application.Lab076_Exp2" />
       </list>
     </recent_temporary>
   </component>
@@ -512,7 +517,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738259832320</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="  Weekly task">
+      <option name="closed" value="true" />
+      <created>1738335238376</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1738335238376</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
