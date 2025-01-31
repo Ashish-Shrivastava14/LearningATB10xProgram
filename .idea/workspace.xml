@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0edcdc6-021c-43a6-aed3-299ed2f78992" name="Changes" comment="  Weekly task">
-      <change afterPath="$PROJECT_DIR$/src/ex_08_If_Condition/Lab083_Interview.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_If_Condition/Lab085_Interview.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,26 +113,14 @@
     "Application.Lab081_If_P1.executor": "Run",
     "Application.Lab082_if_Else.executor": "Run",
     "Application.Lab083_Interview.executor": "Run",
+    "Application.Lab084_Interview.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Task1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab084_Interview">
-    <configuration name="Lab080_If" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_08_If_Condition.Lab080_If" />
-      <module name="LearningATB10xProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_08_If_Condition.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lab085_Interview">
     <configuration name="Lab081_If_P1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_08_If_Condition.Lab081_If_P1" />
       <module name="LearningATB10xProgram" />
@@ -186,13 +173,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab085_Interview" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_08_If_Condition.Lab085_Interview" />
+      <module name="LearningATB10xProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_08_If_Condition.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab085_Interview" />
         <item itemvalue="Application.Lab084_Interview" />
         <item itemvalue="Application.Lab083_Interview" />
         <item itemvalue="Application.Lab082_if_Else" />
         <item itemvalue="Application.Lab081_If_P1" />
-        <item itemvalue="Application.Lab080_If" />
       </list>
     </recent_temporary>
   </component>
@@ -533,7 +533,23 @@
       <option name="project" value="LOCAL" />
       <updated>1738336689885</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="  Weekly task">
+      <option name="closed" value="true" />
+      <created>1738337943185</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1738337943185</updated>
+    </task>
+    <task id="LOCAL-00043" summary="  Weekly task">
+      <option name="closed" value="true" />
+      <created>1738338007717</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1738338007717</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
