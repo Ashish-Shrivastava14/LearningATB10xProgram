@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0edcdc6-021c-43a6-aed3-299ed2f78992" name="Changes" comment="  Weekly task" />
+    <list default="true" id="a0edcdc6-021c-43a6-aed3-299ed2f78992" name="Changes" comment="  Weekly task">
+      <change afterPath="$PROJECT_DIR$/src/ex_09_Switch/Lab092.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_09_Switch/Lab093.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_09_Switch/Lab094_Interview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_09_Switch/Lab095.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_09_Switch/Lab096_Switch_JDK_13_Concept.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_09_Switch/Lab097.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_09_Switch/Lab098.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_09_Switch/Lab099_Assignment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_09_Switch/Lab100_Assignment_Without_Scanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -118,19 +129,29 @@
     "Application.Lab088_HackerRank.executor": "Run",
     "Application.Lab089_HackerRank_EdgeCase.executor": "Run",
     "Application.Lab090_HackerRank_Q2.executor": "Run",
+    "Application.Lab091_Switch_Basics.executor": "Run",
+    "Application.Lab092.executor": "Run",
+    "Application.Lab093.executor": "Run",
+    "Application.Lab094_Interview.executor": "Run",
+    "Application.Lab095.executor": "Run",
+    "Application.Lab096_Switch_JDK_13_Concept.executor": "Run",
+    "Application.Lab097.executor": "Run",
+    "Application.Lab098.executor": "Run",
+    "Application.Lab099_Assignment.executor": "Run",
+    "Application.Lab100_Assignment_Without_Scanner.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Task1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab091_Switch_Basics">
-    <configuration name="Lab087_If_elseif_Else" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_08_If_Condition.Lab087_If_elseif_Else" />
+  <component name="RunManager" selected="Application.Lab100_Assignment_Without_Scanner">
+    <configuration name="Lab096_Switch_JDK_13_Concept" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_09_Switch.Lab096_Switch_JDK_13_Concept" />
       <module name="LearningATB10xProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_08_If_Condition.*" />
+          <option name="PATTERN" value="ex_09_Switch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,12 +159,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab088_HackerRank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_08_If_Condition.Lab088_HackerRank" />
+    <configuration name="Lab097" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_09_Switch.Lab097" />
       <module name="LearningATB10xProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_08_If_Condition.*" />
+          <option name="PATTERN" value="ex_09_Switch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,12 +172,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab089_HackerRank_EdgeCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_08_If_Condition.Lab089_HackerRank_EdgeCase" />
+    <configuration name="Lab098" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_09_Switch.Lab098" />
       <module name="LearningATB10xProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_08_If_Condition.*" />
+          <option name="PATTERN" value="ex_09_Switch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,12 +185,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab090_HackerRank_Q2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_08_If_Condition.Lab090_HackerRank_Q2" />
+    <configuration name="Lab099_Assignment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_09_Switch.Lab099_Assignment" />
       <module name="LearningATB10xProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_08_If_Condition.*" />
+          <option name="PATTERN" value="ex_09_Switch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,8 +198,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab091_Switch_Basics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_09_Switch.Lab091_Switch_Basics" />
+    <configuration name="Lab100_Assignment_Without_Scanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_09_Switch.Lab100_Assignment_Without_Scanner" />
       <module name="LearningATB10xProgram" />
       <extension name="coverage">
         <pattern>
@@ -192,11 +213,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab091_Switch_Basics" />
-        <item itemvalue="Application.Lab090_HackerRank_Q2" />
-        <item itemvalue="Application.Lab089_HackerRank_EdgeCase" />
-        <item itemvalue="Application.Lab088_HackerRank" />
-        <item itemvalue="Application.Lab087_If_elseif_Else" />
+        <item itemvalue="Application.Lab100_Assignment_Without_Scanner" />
+        <item itemvalue="Application.Lab099_Assignment" />
+        <item itemvalue="Application.Lab098" />
+        <item itemvalue="Application.Lab097" />
+        <item itemvalue="Application.Lab096_Switch_JDK_13_Concept" />
       </list>
     </recent_temporary>
   </component>
@@ -208,22 +229,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737829939300</updated>
-    </task>
-    <task id="LOCAL-00001" summary=" Commit">
-      <option name="closed" value="true" />
-      <created>1737912718967</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1737912718967</updated>
-    </task>
-    <task id="LOCAL-00002" summary=" Commit">
-      <option name="closed" value="true" />
-      <created>1737913113716</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1737913113716</updated>
     </task>
     <task id="LOCAL-00003" summary=" weekly task">
       <option name="closed" value="true" />
@@ -601,7 +606,23 @@
       <option name="project" value="LOCAL" />
       <updated>1738339076344</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="  Weekly task">
+      <option name="closed" value="true" />
+      <created>1738339181141</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1738339181142</updated>
+    </task>
+    <task id="LOCAL-00051" summary="  Weekly task">
+      <option name="closed" value="true" />
+      <created>1738339345114</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1738339345115</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
