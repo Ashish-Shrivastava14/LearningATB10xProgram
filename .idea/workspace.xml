@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0edcdc6-021c-43a6-aed3-299ed2f78992" name="Changes" comment="  Weekly task">
-      <change afterPath="$PROJECT_DIR$/src/ex_08_If_Condition/Lab090_HackerRank_Q2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a0edcdc6-021c-43a6-aed3-299ed2f78992" name="Changes" comment="  Weekly task" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -596,7 +593,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738338671086</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="  Weekly task">
+      <option name="closed" value="true" />
+      <created>1738339076344</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1738339076344</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
