@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0edcdc6-021c-43a6-aed3-299ed2f78992" name="Changes" comment="  Weekly task">
-      <change afterPath="$PROJECT_DIR$/src/ex_15_Strings_Functions/Lab143_StringBuilder_StringBuffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Feb5thTask/whileloopSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +42,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ConversionofDays.executor": "Run",
+    "Application.DetermineAGE.executor": "Run",
     "Application.Lab001.executor": "Run",
     "Application.Lab002_ShorcutHW.executor": "Run",
     "Application.Lab004_Comment.executor": "Run",
@@ -175,18 +177,29 @@
     "Application.Lab142_String.executor": "Run",
     "Application.Lab143_StringBuilder_StringBuffer.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.Numbers.executor": "Run",
+    "Application.RepeatJava.executor": "Run",
+    "Application.SumNaturalNumbers.executor": "Run",
     "Application.Task1.executor": "Run",
+    "Application.WhileLoopEven.executor": "Run",
+    "Application.WhileLoopNumbers.executor": "Run",
+    "Application.divisibleBy5and11.executor": "Run",
+    "Application.evennumbers.executor": "Run",
+    "Application.hello5times.executor": "Run",
+    "Application.multiplication.executor": "Run",
+    "Application.whileloopSum.executor": "Run",
+    "Application.whileloopmultiplication.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab143_StringBuilder_StringBuffer">
-    <configuration name="Lab112" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_10_For_Loop.Lab112" />
+  <component name="RunManager" selected="Application.whileloopmultiplication">
+    <configuration name="evennumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Feb5thTask.evennumbers" />
       <module name="LearningATB10xProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_10_For_Loop.*" />
+          <option name="PATTERN" value="Feb5thTask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -194,12 +207,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab140_String_Functions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_15_Strings_Functions.Lab140_String_Functions" />
+    <configuration name="hello5times" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Feb5thTask.hello5times" />
       <module name="LearningATB10xProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_15_Strings_Functions.*" />
+          <option name="PATTERN" value="Feb5thTask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -207,12 +220,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab141_String_Functions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_15_Strings_Functions.Lab141_String_Functions" />
+    <configuration name="multiplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Feb5thTask.multiplication" />
       <module name="LearningATB10xProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_15_Strings_Functions.*" />
+          <option name="PATTERN" value="Feb5thTask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -220,12 +233,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab142_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_15_Strings_Functions.Lab142_String" />
+    <configuration name="whileloopSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Feb5thTask.whileloopSum" />
       <module name="LearningATB10xProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_15_Strings_Functions.*" />
+          <option name="PATTERN" value="Feb5thTask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -233,12 +246,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab143_StringBuilder_StringBuffer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_15_Strings_Functions.Lab143_StringBuilder_StringBuffer" />
+    <configuration name="whileloopmultiplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Feb5thTask.whileloopmultiplication" />
       <module name="LearningATB10xProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_15_Strings_Functions.*" />
+          <option name="PATTERN" value="Feb5thTask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -248,11 +261,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab143_StringBuilder_StringBuffer" />
-        <item itemvalue="Application.Lab142_String" />
-        <item itemvalue="Application.Lab141_String_Functions" />
-        <item itemvalue="Application.Lab140_String_Functions" />
-        <item itemvalue="Application.Lab112" />
+        <item itemvalue="Application.whileloopmultiplication" />
+        <item itemvalue="Application.whileloopSum" />
+        <item itemvalue="Application.multiplication" />
+        <item itemvalue="Application.hello5times" />
+        <item itemvalue="Application.evennumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -264,110 +277,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737829939300</updated>
-    </task>
-    <task id="LOCAL-00021" summary=" weekly task">
-      <option name="closed" value="true" />
-      <created>1738052375351</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1738052375351</updated>
-    </task>
-    <task id="LOCAL-00022" summary=" weekly task">
-      <option name="closed" value="true" />
-      <created>1738052934886</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1738052934886</updated>
-    </task>
-    <task id="LOCAL-00023" summary=" weekly task">
-      <option name="closed" value="true" />
-      <created>1738052972366</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1738052972366</updated>
-    </task>
-    <task id="LOCAL-00024" summary=" weekly task">
-      <option name="closed" value="true" />
-      <created>1738122072480</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1738122072480</updated>
-    </task>
-    <task id="LOCAL-00025" summary=" weekly task">
-      <option name="closed" value="true" />
-      <created>1738122574292</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1738122574292</updated>
-    </task>
-    <task id="LOCAL-00026" summary=" weekly task">
-      <option name="closed" value="true" />
-      <created>1738144232512</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1738144232512</updated>
-    </task>
-    <task id="LOCAL-00027" summary=" weekly task">
-      <option name="closed" value="true" />
-      <created>1738144308936</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1738144308936</updated>
-    </task>
-    <task id="LOCAL-00028" summary=" weekly task">
-      <option name="closed" value="true" />
-      <created>1738144394213</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1738144394213</updated>
-    </task>
-    <task id="LOCAL-00029" summary="  task">
-      <option name="closed" value="true" />
-      <created>1738167431473</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1738167431473</updated>
-    </task>
-    <task id="LOCAL-00030" summary="  weekly task">
-      <option name="closed" value="true" />
-      <created>1738167746516</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1738167746516</updated>
-    </task>
-    <task id="LOCAL-00031" summary="  weekly task">
-      <option name="closed" value="true" />
-      <created>1738167915071</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1738167915071</updated>
-    </task>
-    <task id="LOCAL-00032" summary="  weekly task">
-      <option name="closed" value="true" />
-      <created>1738168055535</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1738168055535</updated>
-    </task>
-    <task id="LOCAL-00033" summary="  weekly task">
-      <option name="closed" value="true" />
-      <created>1738168204466</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1738168204466</updated>
     </task>
     <task id="LOCAL-00034" summary="  weekly task">
       <option name="closed" value="true" />
@@ -657,7 +566,111 @@
       <option name="project" value="LOCAL" />
       <updated>1738597572172</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <task id="LOCAL-00070" summary="  Weekly task">
+      <option name="closed" value="true" />
+      <created>1738597891514</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1738597891514</updated>
+    </task>
+    <task id="LOCAL-00071" summary="  Weekly task">
+      <option name="closed" value="true" />
+      <created>1738752045285</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1738752045285</updated>
+    </task>
+    <task id="LOCAL-00072" summary="  Weekly task">
+      <option name="closed" value="true" />
+      <created>1738752195893</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1738752195893</updated>
+    </task>
+    <task id="LOCAL-00073" summary="  Weekly task">
+      <option name="closed" value="true" />
+      <created>1738752202611</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1738752202611</updated>
+    </task>
+    <task id="LOCAL-00074" summary="  Weekly task">
+      <option name="closed" value="true" />
+      <created>1738752239610</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1738752239610</updated>
+    </task>
+    <task id="LOCAL-00075" summary="  Weekly task">
+      <option name="closed" value="true" />
+      <created>1738752267040</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1738752267040</updated>
+    </task>
+    <task id="LOCAL-00076" summary="  Weekly task">
+      <option name="closed" value="true" />
+      <created>1738752283093</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1738752283094</updated>
+    </task>
+    <task id="LOCAL-00077" summary="  Weekly task">
+      <option name="closed" value="true" />
+      <created>1738752299248</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1738752299248</updated>
+    </task>
+    <task id="LOCAL-00078" summary="  Weekly task">
+      <option name="closed" value="true" />
+      <created>1738752341467</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1738752341467</updated>
+    </task>
+    <task id="LOCAL-00079" summary="  Weekly task">
+      <option name="closed" value="true" />
+      <created>1738752353897</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1738752353897</updated>
+    </task>
+    <task id="LOCAL-00080" summary="  Weekly task">
+      <option name="closed" value="true" />
+      <created>1738752371768</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1738752371768</updated>
+    </task>
+    <task id="LOCAL-00081" summary="  Weekly task">
+      <option name="closed" value="true" />
+      <created>1738752382721</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1738752382721</updated>
+    </task>
+    <task id="LOCAL-00082" summary="  Weekly task">
+      <option name="closed" value="true" />
+      <created>1738752393386</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1738752393386</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
