@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0edcdc6-021c-43a6-aed3-299ed2f78992" name="Changes" comment="  Weekly task">
-      <change afterPath="$PROJECT_DIR$/src/Feb5thTask/whileloopSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_16_Arrays/Lab144_Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_16_Arrays/Lab145.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_16_Arrays/Lab146.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_16_Arrays/Lab147.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_16_Arrays/Lab148_Arrays_Max_Value_Interview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_16_Arrays/Lab149_Reverse_Order_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_16_Arrays/Lab150_Sum_OF_Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_16_Arrays/Lab151_InterviewQ.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -176,6 +183,11 @@
     "Application.Lab141_String_Functions.executor": "Run",
     "Application.Lab142_String.executor": "Run",
     "Application.Lab143_StringBuilder_StringBuffer.executor": "Run",
+    "Application.Lab144_Arrays.executor": "Run",
+    "Application.Lab146.executor": "Run",
+    "Application.Lab147.executor": "Run",
+    "Application.Lab149_Reverse_Order_Array.executor": "Run",
+    "Application.Lab151_InterviewQ.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Numbers.executor": "Run",
     "Application.RepeatJava.executor": "Run",
@@ -193,13 +205,13 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.whileloopmultiplication">
-    <configuration name="evennumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Feb5thTask.evennumbers" />
+  <component name="RunManager" selected="Application.Lab151_InterviewQ">
+    <configuration name="Lab144_Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_16_Arrays.Lab144_Arrays" />
       <module name="LearningATB10xProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Feb5thTask.*" />
+          <option name="PATTERN" value="ex_16_Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -207,12 +219,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hello5times" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Feb5thTask.hello5times" />
+    <configuration name="Lab146" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_16_Arrays.Lab146" />
       <module name="LearningATB10xProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Feb5thTask.*" />
+          <option name="PATTERN" value="ex_16_Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -220,12 +232,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="multiplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Feb5thTask.multiplication" />
+    <configuration name="Lab147" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_16_Arrays.Lab147" />
       <module name="LearningATB10xProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Feb5thTask.*" />
+          <option name="PATTERN" value="ex_16_Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -233,12 +245,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="whileloopSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Feb5thTask.whileloopSum" />
+    <configuration name="Lab149_Reverse_Order_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_16_Arrays.Lab149_Reverse_Order_Array" />
       <module name="LearningATB10xProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Feb5thTask.*" />
+          <option name="PATTERN" value="ex_16_Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -246,12 +258,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="whileloopmultiplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Feb5thTask.whileloopmultiplication" />
+    <configuration name="Lab151_InterviewQ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_16_Arrays.Lab151_InterviewQ" />
       <module name="LearningATB10xProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Feb5thTask.*" />
+          <option name="PATTERN" value="ex_16_Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -261,11 +273,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.whileloopmultiplication" />
-        <item itemvalue="Application.whileloopSum" />
-        <item itemvalue="Application.multiplication" />
-        <item itemvalue="Application.hello5times" />
-        <item itemvalue="Application.evennumbers" />
+        <item itemvalue="Application.Lab151_InterviewQ" />
+        <item itemvalue="Application.Lab149_Reverse_Order_Array" />
+        <item itemvalue="Application.Lab147" />
+        <item itemvalue="Application.Lab146" />
+        <item itemvalue="Application.Lab144_Arrays" />
       </list>
     </recent_temporary>
   </component>
@@ -277,14 +289,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737829939300</updated>
-    </task>
-    <task id="LOCAL-00034" summary="  weekly task">
-      <option name="closed" value="true" />
-      <created>1738168528459</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1738168528459</updated>
     </task>
     <task id="LOCAL-00035" summary="  weekly task">
       <option name="closed" value="true" />
@@ -670,7 +674,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738752393386</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="  Weekly task">
+      <option name="closed" value="true" />
+      <created>1738752733634</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1738752733634</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
