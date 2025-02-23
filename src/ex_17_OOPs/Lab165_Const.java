@@ -1,5 +1,7 @@
 package ex_17_OOPs;
 
+import java.util.Scanner;
+
 public class Lab165_Const {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
