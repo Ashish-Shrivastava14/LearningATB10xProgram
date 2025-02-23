@@ -1,5 +1,6 @@
 package ex_16_Arrays;
 
+import java.util.Scanner;
 public class Lab152_UserInput {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -26,5 +27,4 @@ public class Lab152_UserInput {
 
 
     }
-}
 }
